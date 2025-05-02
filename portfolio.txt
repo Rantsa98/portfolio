@@ -1,0 +1,61 @@
+Ramanantoanina Rantsa Miangola
+Technicien support informatique
+
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">À propos de moi</h2>
+    <p>Je suis Rantsa, âgé de 26 ans, passionné par la technologie. Je me suis plongé dans le domaine de l'informatique depuis plusieurs années, avec un intérêt particulier pour les systèmes informatiques et les réseaux.</p>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">Compétences</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div>
+        <h3 class="font-semibold">Techniques</h3>
+        <ul class="list-disc list-inside">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>PHP</li>
+          <li>Configuration de terminaux & équipements réseau</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-semibold">Humaines</h3>
+        <ul class="list-disc list-inside">
+          <li>Membre actif de l'association ALFA Madagascar</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">Projet phare</h2>
+    <h3 class="text-lg font-semibold">Installation de scanner automatique (RFID)</h3>
+    <p>Déploiement d'un système de scanners RFID pour améliorer la gestion des stocks. Objectifs : automatiser l'identification, intégrer à l'ERP/WMS, former les utilisateurs. Méthodologie : Agile. Résultats attendus : réduction des erreurs, gain de temps, amélioration des flux logistiques.</p>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">Expérience professionnelle</h2>
+    <h3 class="font-semibold">Support IT - Compagnie mauricienne de textile (12/2023 - 01/2025)</h3>
+    <ul class="list-disc list-inside">
+      <li>Maintenance et surveillance du parc informatique</li>
+      <li>Support technique aux utilisateurs</li>
+      <li>Gestion des incidents systèmes et réseaux</li>
+    </ul>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">Formation</h2>
+    <ul class="list-disc list-inside">
+      <li>Baccalauréat (2016)</li>
+      <li>Certificat en maintenance & réseau informatique (2017)</li>
+      <li>Certification Cisco CCNA (2024)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="text-2xl font-semibold text-blue-600 mb-2">Contact</h2>
+    <p>Email : <a href="mailto:rantsa98@gmail.com" class="text-blue-500 hover:underline">rantsa98@gmail.com</a></p>
+    <p>LinkedIn : <a href="https://www.linkedin.com/in/ramanantoanina-rantsa" target="_blank" class="text-blue-500 hover:underline">Ramanantoanina Rantsa</a></p>
+  </section>
+</div>
